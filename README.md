@@ -1,6 +1,6 @@
 # STEM-Salaries-Prediction
 
-As STEM students, we are constantly monitoring the job market. The goal of this project is to understand how different metrics and demographic variables affect STEM employees' salaries. By utilizing random forest, GBT, linear, and logistic regression models, we examine the importance of multiple characteristics in determining an employee’s base salary, such as company, location, years of work experience, and job title. 
+As STEM students, we are constantly monitoring the job market. The goal of this project was to understand how different metrics and demographic variables affect STEM employees' salaries. By utilizing random forest, GBT, linear, and logistic regression models, we examine the importance of multiple characteristics in determining an employee’s base salary, such as company, location, years of work experience, and job title. 
 The data used comes from Levels.fyi, a website where employees can post information about their jobs and themselves. The end goal was to find the best model at accurately predicting base salaries. Additional information was gathered, providing insight into what features each model found to be most important. The predictions and inferences that were made on this data provide a wealth of information to current/future STEM employees.  
 
 ## Data Collection & Cleaning 
